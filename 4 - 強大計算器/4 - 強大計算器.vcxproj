@@ -23,7 +23,7 @@
     <ProjectGuid>{C2C92EE5-4E8B-4FBA-89E8-DAD2A3880736}</ProjectGuid>
     <RootNamespace>My4強大計算器</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>1.4 - 強大計算器</ProjectName>
+    <ProjectName>1.9 - 強大計算器</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

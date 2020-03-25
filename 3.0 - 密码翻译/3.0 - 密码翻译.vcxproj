@@ -23,6 +23,7 @@
     <ProjectGuid>{BB5751F3-3333-4411-8078-A43CE354EF2A}</ProjectGuid>
     <RootNamespace>My30密码翻译</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>3.6- 密码翻译</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

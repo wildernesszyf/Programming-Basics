@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1 - Hello world", "1 - Hello world\1 - Hello world.vcxproj", "{033CCA74-962F-4CC2-B7F4-AD749E6A9ED6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.0 - Hello world", "1 - Hello world\1 - Hello world.vcxproj", "{033CCA74-962F-4CC2-B7F4-AD749E6A9ED6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.2 - 小紅旗", "2 - 小紅旗\2 - 小紅旗.vcxproj", "{484EAD53-9F2E-45E9-9C5D-005B0762F6C3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.4 - 十個整數的相加", "3 - 十個整數的相加\3 - 十個整數的相加.vcxproj", "{0F205F9E-5806-48F5-BC92-F33FA2A5EA43}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.3 - 十個整數的相加", "3 - 十個整數的相加\3 - 十個整數的相加.vcxproj", "{0F205F9E-5806-48F5-BC92-F33FA2A5EA43}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.4 - 強大計算器", "4 - 強大計算器\4 - 強大計算器.vcxproj", "{C2C92EE5-4E8B-4FBA-89E8-DAD2A3880736}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.9 - 強大計算器", "4 - 強大計算器\4 - 強大計算器.vcxproj", "{C2C92EE5-4E8B-4FBA-89E8-DAD2A3880736}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.5 - 求三个数的最大值", "三个数找最大值\三个数找最大值.vcxproj", "{2C5DE11F-B74A-440B-A4F4-FD75ED7D11B4}"
 EndProject
@@ -19,7 +17,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.7 - 三个整数绝对值
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.8 - 十个整数求最小值", "8 - 十个整数求最小值\8 - 十个整数求最小值.vcxproj", "{BAF06F7F-12B3-4460-B6A4-56695420B64F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.9 - 數值的交換", "9 - 數值的交換\9 - 數值的交換.vcxproj", "{16FFDA92-3F3D-422A-8F93-545F34B23FEE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.6 - 數值的交換", "9 - 數值的交換\9 - 數值的交換.vcxproj", "{16FFDA92-3F3D-422A-8F93-545F34B23FEE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.0 - 字节", "10 -\10 -.vcxproj", "{E94BB49A-56C6-4CE1-8F66-15C92CD7D490}"
 EndProject
@@ -33,11 +31,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.4 - 逆序求數", "2.5 -
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.5 - 三角形面积", "2.6 - 三角形面积\2.6 - 三角形面积.vcxproj", "{13C911D8-EBC0-411E-B678-57D5339629C5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.8 - 求一元二次方程的根", "2.8 - 求一元二次方程的根\2.8 - 求一元二次方程的根.vcxproj", "{DD51CE59-2E62-4AAF-BC19-3C1BC253F9A7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.9 - 求一元二次方程的根", "2.8 - 求一元二次方程的根\2.8 - 求一元二次方程的根.vcxproj", "{DD51CE59-2E62-4AAF-BC19-3C1BC253F9A7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.9 - 贷款月份计算", "2.8 - 贷款月份计算\2.8 - 贷款月份计算.vcxproj", "{77CE93E9-E566-4C1A-B00B-6998704C6C39}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.0 - 贷款月份计算", "2.8 - 贷款月份计算\2.8 - 贷款月份计算.vcxproj", "{77CE93E9-E566-4C1A-B00B-6998704C6C39}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.0 - 密码翻译", "3.0 - 密码翻译\3.0 - 密码翻译.vcxproj", "{BB5751F3-3333-4411-8078-A43CE354EF2A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.6- 密码翻译", "3.0 - 密码翻译\3.0 - 密码翻译.vcxproj", "{BB5751F3-3333-4411-8078-A43CE354EF2A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1 - 中美日期转换", "3.1 - 中美日期转换\3.1 - 中美日期转换.vcxproj", "{2E726E1A-D938-4361-9FE9-5616648A4707}"
 EndProject
@@ -48,6 +46,12 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.4 - 圆的正内接六边形面积", "3.4 - 圆的正内接六边形面积\3.4 - 圆的正内接六边形面积.vcxproj", "{5EE820C6-0403-4D71-B1B0-66D4280824AC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.5 - 温度单位转换", "3.5 - 温度单位转换\3.5 - 温度单位转换.vcxproj", "{1C26C253-23FF-419D-AA20-F870AE2CB5B7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1 - 小紅旗", "1.2 - 小紅旗\1.2 - 小紅旗.vcxproj", "{3148EDD5-C711-41DA-B992-FBDE9E94A19D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{7E8C840D-E13F-46FF-A2C4-D04A005A83A9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.7 - 格式符", "3.7 - 格式符\3.7 - 格式符.vcxproj", "{595BF77A-28C6-4087-8FB0-55414B0907D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,14 +69,6 @@ Global
 		{033CCA74-962F-4CC2-B7F4-AD749E6A9ED6}.Release|x64.Build.0 = Release|x64
 		{033CCA74-962F-4CC2-B7F4-AD749E6A9ED6}.Release|x86.ActiveCfg = Release|Win32
 		{033CCA74-962F-4CC2-B7F4-AD749E6A9ED6}.Release|x86.Build.0 = Release|Win32
-		{484EAD53-9F2E-45E9-9C5D-005B0762F6C3}.Debug|x64.ActiveCfg = Debug|x64
-		{484EAD53-9F2E-45E9-9C5D-005B0762F6C3}.Debug|x64.Build.0 = Debug|x64
-		{484EAD53-9F2E-45E9-9C5D-005B0762F6C3}.Debug|x86.ActiveCfg = Debug|Win32
-		{484EAD53-9F2E-45E9-9C5D-005B0762F6C3}.Debug|x86.Build.0 = Debug|Win32
-		{484EAD53-9F2E-45E9-9C5D-005B0762F6C3}.Release|x64.ActiveCfg = Release|x64
-		{484EAD53-9F2E-45E9-9C5D-005B0762F6C3}.Release|x64.Build.0 = Release|x64
-		{484EAD53-9F2E-45E9-9C5D-005B0762F6C3}.Release|x86.ActiveCfg = Release|Win32
-		{484EAD53-9F2E-45E9-9C5D-005B0762F6C3}.Release|x86.Build.0 = Release|Win32
 		{0F205F9E-5806-48F5-BC92-F33FA2A5EA43}.Debug|x64.ActiveCfg = Debug|x64
 		{0F205F9E-5806-48F5-BC92-F33FA2A5EA43}.Debug|x64.Build.0 = Debug|x64
 		{0F205F9E-5806-48F5-BC92-F33FA2A5EA43}.Debug|x86.ActiveCfg = Debug|Win32
@@ -241,6 +237,30 @@ Global
 		{1C26C253-23FF-419D-AA20-F870AE2CB5B7}.Release|x64.Build.0 = Release|x64
 		{1C26C253-23FF-419D-AA20-F870AE2CB5B7}.Release|x86.ActiveCfg = Release|Win32
 		{1C26C253-23FF-419D-AA20-F870AE2CB5B7}.Release|x86.Build.0 = Release|Win32
+		{3148EDD5-C711-41DA-B992-FBDE9E94A19D}.Debug|x64.ActiveCfg = Debug|x64
+		{3148EDD5-C711-41DA-B992-FBDE9E94A19D}.Debug|x64.Build.0 = Debug|x64
+		{3148EDD5-C711-41DA-B992-FBDE9E94A19D}.Debug|x86.ActiveCfg = Debug|Win32
+		{3148EDD5-C711-41DA-B992-FBDE9E94A19D}.Debug|x86.Build.0 = Debug|Win32
+		{3148EDD5-C711-41DA-B992-FBDE9E94A19D}.Release|x64.ActiveCfg = Release|x64
+		{3148EDD5-C711-41DA-B992-FBDE9E94A19D}.Release|x64.Build.0 = Release|x64
+		{3148EDD5-C711-41DA-B992-FBDE9E94A19D}.Release|x86.ActiveCfg = Release|Win32
+		{3148EDD5-C711-41DA-B992-FBDE9E94A19D}.Release|x86.Build.0 = Release|Win32
+		{7E8C840D-E13F-46FF-A2C4-D04A005A83A9}.Debug|x64.ActiveCfg = Debug|x64
+		{7E8C840D-E13F-46FF-A2C4-D04A005A83A9}.Debug|x64.Build.0 = Debug|x64
+		{7E8C840D-E13F-46FF-A2C4-D04A005A83A9}.Debug|x86.ActiveCfg = Debug|Win32
+		{7E8C840D-E13F-46FF-A2C4-D04A005A83A9}.Debug|x86.Build.0 = Debug|Win32
+		{7E8C840D-E13F-46FF-A2C4-D04A005A83A9}.Release|x64.ActiveCfg = Release|x64
+		{7E8C840D-E13F-46FF-A2C4-D04A005A83A9}.Release|x64.Build.0 = Release|x64
+		{7E8C840D-E13F-46FF-A2C4-D04A005A83A9}.Release|x86.ActiveCfg = Release|Win32
+		{7E8C840D-E13F-46FF-A2C4-D04A005A83A9}.Release|x86.Build.0 = Release|Win32
+		{595BF77A-28C6-4087-8FB0-55414B0907D6}.Debug|x64.ActiveCfg = Debug|x64
+		{595BF77A-28C6-4087-8FB0-55414B0907D6}.Debug|x64.Build.0 = Debug|x64
+		{595BF77A-28C6-4087-8FB0-55414B0907D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{595BF77A-28C6-4087-8FB0-55414B0907D6}.Debug|x86.Build.0 = Debug|Win32
+		{595BF77A-28C6-4087-8FB0-55414B0907D6}.Release|x64.ActiveCfg = Release|x64
+		{595BF77A-28C6-4087-8FB0-55414B0907D6}.Release|x64.Build.0 = Release|x64
+		{595BF77A-28C6-4087-8FB0-55414B0907D6}.Release|x86.ActiveCfg = Release|Win32
+		{595BF77A-28C6-4087-8FB0-55414B0907D6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
