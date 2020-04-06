@@ -7,22 +7,25 @@ int main()
 	//scanf("%*6d%4d%2d%2d",&year,&month,&day);
 	//printf("您的出生年月為：%d年%d月%d日",year,month,day);
 	//putchar('\o99');
-	char c1, c2;
+	//char c1, c2;
 
-	c1 = getchar();
-	c2 = getchar();
-	putchar(c1);
-	putchar(c2);
+	//c1 = getchar();
+	//c2 = getchar();
+	//putchar(c1);
+	//putchar(c2);
 
-	c1 = getchar();
-	c2 = getchar();
-	putchar(c1);
-	putchar(c2);
+	//c1 = getchar();
+	//c2 = getchar();
+	//putchar(c1);
+	//putchar(c2);
 
-	c1 = getchar();
-	c2 = getchar();
-	putchar(c1);
-	putchar(c2);
+	//c1 = getchar();
+	//c2 = getchar();
+	//putchar(c1);
+	//putchar(c2);
+	char max, a=1, b=2;
+	max=(a > b)	?a:b;
+	printf("%d", max);
 
 	return 0;
 }
